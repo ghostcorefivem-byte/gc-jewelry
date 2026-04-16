@@ -71,4 +71,7 @@ Images must exist in inventory folder
 💅 GC Scripts
 Custom built & branded for your server.
 
+For support go to: https://discord.gg/WZtT8VBm
+Buy me a coffee: https://discord.gg/WZtT8VBm
+
 Enjoy your drip 😏💎
